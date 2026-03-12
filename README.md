@@ -1,11 +1,14 @@
 <div align="right">
-  <a href="#-english-version"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" /></a>
-  <a href="#-korean-version"><img src="https://img.shields.io/badge/언어-한국어-red?style=for-the-badge" /></a>
+  <a href="#english-version"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" /></a>
+  <a href="#korean-version"><img src="https://img.shields.io/badge/언어-한국어-red?style=for-the-badge" /></a>
   <a href="./resume_ko.pdf"><img src="https://img.shields.io/badge/한국어_이력서-PDF-lightgrey?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </div>
 
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=330&color=gradient&customColorList=8&text=Hi,%20I'm%20Edward!&section=header&reversal=false&fontColor=ffffff&descAlign=50" />
+</div>
+
 <div id="english-version">
-  <h1>Hi, I'm Edward (Gwang-hyeok Kim) 👋</h1>
   <p><b>Backend Developer specialized in Data Management Systems and AI-driven Solutions.</b></p>
   <p>I focus on building scalable architectures and optimizing data workflows with a pragmatic, growth-oriented mindset.</p>
   <picture>
