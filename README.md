@@ -1,7 +1,6 @@
 <div align="right">
   <a href="#english-version"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" /></a>
   <a href="#korean-version"><img src="https://img.shields.io/badge/언어-한국어-red?style=for-the-badge" /></a>
-  <a href="./resume_ko.pdf"><img src="https://img.shields.io/badge/한국어_이력서-PDF-lightgrey?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </div>
 
 <div>
